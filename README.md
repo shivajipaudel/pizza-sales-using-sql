@@ -17,3 +17,5 @@
 🥇 Rank Pizza Types by Revenue, Quantity, and Category
 
 📈 Calculate Each Pizza Type’s Revenue Contribution
+
+## This analysis provides a comprehensive view of sales trends, customer behavior, and revenue performance, using clean and optimized SQL queries.
